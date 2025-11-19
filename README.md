@@ -46,6 +46,8 @@ Write the detailed procedure here
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/cc37530a-1851-4cf4-9417-52bc3b6e6c89" />
+<img width="768" height="320" alt="Screenshot 2025-11-19 200417" src="https://github.com/user-attachments/assets/b01615cc-fe5b-4c35-bbf5-310f711e31a7" />
+
 
 Developed by: Manoshree N
 RegisterNumber:25017532
